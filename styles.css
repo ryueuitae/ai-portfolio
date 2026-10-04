@@ -8,3 +8,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media(max-width:720px){.identity-heading{gap:16px}.profile-photo{width:80px;height:auto}.identity-heading h1 span{font-size:32px}}
 @media print{.header,.hero-actions,.hero-bottom>a,.footer>a{display:none}.hero{padding-top:0}.section{padding-top:32px;padding-bottom:32px}.section-heading{position:static}.project-card{break-inside:avoid}body{background:white;color:#111}.container{max-width:none}.section{grid-template-columns:180px 1fr}.footer{padding-bottom:0}}
+.hero-actions{flex-wrap:wrap}
